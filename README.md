@@ -6,7 +6,7 @@ Testing the Feed Reader app using Javascript testing framework **Jasmine**.
 - [2.1 Jasmine documentation](http://jasmine.github.io/2.1/introduction.html)
 
 ### How to run this test
-- Simply visit [here](http://.github.io/udacity-feedreader-test/#), I publicly hosted this test.
+- Simply visit [here](http://galatigiuseppe.github.io/frontend-nanodegree-feedreader/#), I publicly hosted this test.
 
 ### How to run the this locally
 **Option-1 - Simple**:
